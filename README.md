@@ -1,7 +1,7 @@
 # heading
 
-push local repo
+Github training 2 
 
 # subheading
 
-hope it works!
+push local repo
